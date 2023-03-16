@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+death-related services i.e. writing a will, arranging cremation, or applying for probate.  Taxx is making tax returns for employees easy in the EU. Step 2: Create a matrix combining product models and your Audience List Identify segments you want to focus on from your Audience List, for example:  Co-working tenants  Co-working spaces  The sustainability conscious  Airbnb hosts  People with back and neck pain  Cyclists  Remote workers  Gyms Step 3: Look for opportunities Here are some ideas that the combinations of the inputs above led me to. As always, some are more interesting than others, but all of them would need validation: 108#17: PRODUCT MODELS  Co-working tenants + comparison tools  Here, you could create a website consolidating co-working spaces in your country or city. It should allow comparison between co-working spaces based on different factors (price, location, size, etc.), as well as adding additional information layers like food options, transportation, accumulative commute time, etc.  Cyclers + curation  You could create a route builder for cyclists. It would allow them to nd trips tting their preferences like landscape type (city, nature, mountains, water), length, duration, complexity, etc.  Gyms + DIY kits  You could create prepackaged and premixed ingredients for smoothies and shakes in edible bags so it can be put directly into a blender with water or milk. It could be frozen if it included fresh vegetables or fruits. Otherwise, it would include only dry ingredients.  Co-working spaces, Airbnb hosts, gyms + sustainable alternatives  Consider building an agency helping businesses to become more sustainable in order to attract new customers. Such an agency could prepare a plan, execute it, educate the staff, and produce marketing materials to communicate their new sustainability agenda externally.  Cyclists + sustainable alternatives  This is a good combination because theres probably a signicant overlap between people who
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses different product models and audience segments for potential business opportunities. Some of the ideas include creating a co-working space comparison tool, a route builder for cyclists, prepackaged smoothie and shake ingredients for gyms, and building an agency to help businesses become more sustainable. The focus is on validating these ideas and finding opportunities to meet the needs of specific audience segments.

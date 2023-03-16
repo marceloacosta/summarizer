@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+time but, two years ago, I felt like I arrived at a tipping point when the list of ideas I wanted to pursue became much longer than the time or resources I had. I never consciously worked on getting better at generating ideas, so I became curious about this shift from having some ideas to having many ideas. I started observing the thought processes that led me to new ideas during the years and noticed patterns. Based on these, I created a framework to support idea generation and started using it myself. At some point, I realized that these techniques could benet others too. Ideas are cheap, execution is everything, says Chris Sacca, an investor in Twitter and Uber. The startup industry is living by this mantra, and there is some truth to it. However, execution without ideas or of bad ideas wont get you very far. You have to have ideas to build a business. Today you can learn any execution-related skill online: coding, design, marketing, distribution, and sales. When 5GENERATING PRODUCT IDEAS building a business, ideas are multipliers of the effort that is put into the execution. But how many resources do you know of that teach us how to come up with business ideas? There are some ideation methodologies like design thinking, but they only provide a method and not the inputs to feed into this method, which means theyre not very actionable. In my research, I was surprised to nd no consolidated and solid resource providing specic and practical advice on generating product ideas. With this book, I want to ll this gap and allow everyone to learn how to generate ideas. I hope it will help more people to start a business and solve the most urgent problems the world is facing today, making it more sustainable, healthy, and equal. Artiom Dashinsky July 2020 6WHY YOU SHOULD READ THIS BOOK Why you should read this book "The best way to have a good idea is to have a lot of ideas.  Linus Pauling, Nobel Prize Laureate This book is an actionable guide to nding ideas for
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This book is about how to generate business ideas and fill a gap in the market for practical advice. The author developed a framework for idea generation and hopes to help more people start a business and solve urgent problems to make the world more sustainable, healthy, and equal. The book emphasizes that ideas are important for building a business and provides actionable advice on how to generate them.

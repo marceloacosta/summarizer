@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+less likely to build a product for it. A couple of my friends are working for a startup, looking at the problem of supplier payment management at shops and restaurants. Small shops and restaurants have multiple vendors who work with different payment methods and due dates, adding operations load that is untenable for a small business, so they decided to build a system helping to reduce the overheads of managing these processes. Such problems are hard to discover without having access to the intricacies of the behind-the- scenes processes in a specic context. 24#1: SOLVING YOUR OWN BUSINESS PROBLEMS Keep those questions from Step 2 about inefficiencies in your mind at all times, and seek out problems that need solving. By adopting this mindset long-term, you will more easily notice opportunities in the future. 25GENERATING PRODUCT IDEAS #2: Productizing your own life experiences This technique draws on a huge untapped resource that you already have at your ngertips  your own life. Your familiarity with an experience, the difficulties you encountered, and mistakes you made, is the ideal starting point for identifying problems. Step 1: List the life experiences youve acquired For example:  Moving to Japan  Going through a divorce  Dealing with back pain  Applying for a business owner visa  Buying a modular house Step 2: List the frictions you encountered  What level of research did they require?  Which experiences required hiring a consultant?  What mistakes did you make?  What aspects did you wish someone would have told you about in advance? Step 3: Simplify the experience for others People are going through the same expensive and time- 26#2: PRODUCTIZING YOUR OWN LIFE EXPERIENCES consuming experiences every day. What if they could be optimized to free up peoples time for more important things? Summarize your hard-won expertise into a product to help others avoid the same frictions. The end product could be a book, a course or workshop, a consulting
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Startups can find problems to solve by identifying inefficiencies in their own business processes or by productizing their own life experiences. For example, a startup can develop a system to help small shops and restaurants manage supplier payments, which can be a complex and time-consuming task. By simplifying their own experiences, startups can develop products such as books, courses, or consulting services to help others avoid the same frictions.

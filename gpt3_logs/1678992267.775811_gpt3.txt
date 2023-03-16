@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+building their own businesses are solving problems every day and they always have insights on problems, frictions, and opportunities for improvement. These meetups are thus 112WHERE TO FIND MORE IDEAS invaluable for isolating problems, getting feedback on your ideas, and providing a forum for ideation. Resources that curate problems and ideas This list includes resources sharing problems or ideas, sorted from most to least useful:  Startupsfromthebottom.com/ideas  Each problem in this collection comes with a short backstory, a monetization strategy, a deep dive, and validation. All ideas are created by the entrepreneur and consultant, Brian Thomas.  Ideaswatch.com  This resource is not maintained, but it allows people to submit business ideas and get feedback. It has a couple of thousand ideas to draw on.  Openideo.com  The IDEO design agency shares challenges to which anyone can submit solutions. You have the opportunity either to join someone in building a solution you feel passionate about or to see a variety of possible solutions to one problem.  Probstack.io - This community allows anyone to submit problems they think need solving. People vote on whether they think the problem has merit which provides validation of need.  Requestforproduct.co  This curates all tweets with a #requestforproduct hashtag.  Fiveideasaday.com  This newsletter sends you ve product ideas a day. Most of them arent in-depth and dont even mention the problem they are solving, but they can still be useful for inspiration. 113GENERATING PRODUCT IDEAS  Problemoftheday.co  This website collects and curates tweets starting with the phrase, Can someone invent  Ideasareworthless.io  This website isnt updated anymore, unfortunately. It allowed users to post product ideas and let others vote for those that resonated with them. Resources listing existing products While observing existing products, you can reverse- engineer them to understand what problems theyre solving and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Entrepreneurs who build their own businesses have daily insight into problems, friction, and opportunities for improvement. Meetups can be valuable for isolating problems, getting feedback, and generating ideas. Resources that curate problems and ideas include startupsfromthebottom.com/ideas, ideaswatch.com, openideo.com, probstack.io, requestforproduct.co, fiveideasaday.com, and problemoftheday.co. Additionally, existing products can be observed and reverse-engineered to understand their problem-solving capabilities.

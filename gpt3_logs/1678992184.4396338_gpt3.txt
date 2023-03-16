@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+a year). 84#14: SCIENTIFIC RESEARCH How noise affects productivity Figure 14.2 A noise measurement app sitting in the macOS menu bar Research shows how noise affects productivity41 (as well as creativity levels42, and even health43). To help people mitigate its effects in different environments like the office or a co-working space, in a coffee shop, or at home, you could build an app to measure, track, and analyze noise levels. Such an app could show when the noise level or noise type is suboptimal, so the user can move to another space. It could provide a weekly or monthly summary insight, for example: The co-working space has the best noise levels in the morning, and home working is best in the afternoons. You could also aggregate the data to provide a list of co-working spaces and coffee shops with optimal noise levels and times. 85GENERATING PRODUCT IDEAS The impact of vegetables on childrens health Figure 14.3 VeggieMat: an interactive product that encourages children to eat vegetables While researching an unrelated product I was working on, I came across a study exploring how to make children eat more vegetables. I wasnt aware of the problem at the time, so I did some research to understand why it was so important. It turns out that increasing consumption of fruits and vegetables, just in the US, could save 100,000 lives and $17 billion in health care costs, yearly44. The food habits that children develop between ages two and three were strongly linked with their diet preferences in adulthood, so its a time period that has a signicant impact on peoples health over their lifetime. This original research45 consolidated tens of studies exploring different approaches to making children eat more 86#14: SCIENTIFIC RESEARCH vegetables. I decided to see if I could combine several of their conclusions into one product to increase the chances of improving their intake. I ended up using four studies which claimed that children are more likely to eat vegetables
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+An app could be developed to measure, track and analyze noise levels to help people mitigate its effects on productivity and health. Research shows that increasing the consumption of fruits and vegetables, especially in children, could save 100,000 lives and $17 billion in healthcare costs yearly. A product named VeggieMat was developed by combining several studies to encourage children to eat more vegetables.

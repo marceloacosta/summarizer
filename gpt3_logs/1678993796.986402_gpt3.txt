@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+intersections to nd problems. #2: Productizing your own life experiences 1. List the life experiences youve acquired. 2. List the frictions you encountered:  What level of research did they require?  Which experiences required hiring a consultant?  What mistakes did you make?  What aspects did you wish someone would have told you about in advance? 3. Simplify the experience for others. #3: Insider ideas 1. List the internal processes of organizations with which youre familiar. 2. List the opportunities these organizations didnt pursue. 3. Explore the product ideas that emerge.GENERATING PRODUCT IDEAS #4: Vision-based ideas 1. Dene your vision:  Bring something positive closer  Move away from something negative 2. Find the reasons the vision is not a reality:  Negative  What causes this problem?  Positive  What prevents it from happening? 3. List ways of solving these obstacles. #5: Cross-industry product innovation 1. Make a list of valuable products that:  people from other industries use.  you use, or have read about or seen recently. 2. Adjust these products to your industry/audience. #6: Improve abandoned but useful products 1. Find in demand products with a low rating (less than 3.5 stars), that have a lot of downloads/users but which havent been updated for a long time:  appannie.com  Chrome Store 2. Build better versions of these products. #7: Localization of existing solutions 1. List countries, regions, and languages youre familiar with. 2. List products worth replicating that:  other people you know nd useful. 126FRAMEWORK CHEAT SHEET  you use, have read about, or have seen recently. 3. Bring the product to a new country or language. #8: Automate marketplace services and products 1. Find automatable services. 2. Build products automating the services. #9: Product unbundling 1. List products that your audience uses. 2. Analyze the features, platforms, and audiences:  Extractable features  Unsupported platforms  Niche audiences 3.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This article provides nine methods for generating product ideas. These methods include identifying problems at intersections, productizing personal experiences, insider ideas, vision-based ideas, cross-industry innovation, improving abandoned products, localization, automating marketplace services, and product unbundling. Each method involves identifying valuable opportunities and simplifying them for others.

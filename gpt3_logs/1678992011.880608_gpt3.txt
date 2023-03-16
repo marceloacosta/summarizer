@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+business, or an online community around this topic. You could go for niche topics (e.g. how to set up a business in Germany as a foreigner) or go broad (e.g. how to become vegan). Ideally, you want to nd the perfect spot between the two  nding an audience that will be big enough to make it a viable product but niche enough to avoid competing with too many other options on the market. The advantage of this approach is that youre already familiar with the playing eld and the audience. You might even be part of a community interested in such a solution already, so you know where to nd potential customers and what their needs are. Here are a couple of examples of how people leverage this approach to build a business:  Elle Huerta, who was going through a breakup, was looking for guidance online but couldnt nd anything helpful. She has since built Mend (letsmend.com), an app providing advice and support for heartbreak. Since it was founded in 2017, the app has provided more than two million users with training courses. 6  Tobias Van Schneider is a designer who moved from Austria to New York and had to deal with issues like nding a job, getting a visa, calculating the cost of living, choosing an apartment, etc. To summarize his experiences and provide guidance on achieving a 27GENERATING PRODUCT IDEAS smoother transition, he wrote an e-book, How to Move to New York City (letsgoto.nyc) The idea for this book youre reading is also a result of this technique  Im sharing the knowledge I acquired of generating ideas for protable businesses. Here are three more ideas I came up with using this technique: Suing spammers In Israel, it became normal to receive one or two unsolicited spam SMS messages per day. It is an annoyance everyone experiences. To deter companies from such behavior, a law was created. It allowed citizens to sue companies who were spamming them, and receive up to $280 per message, without proof of damages. Unfortunately, very few people were
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article suggests generating business ideas by finding a niche topic that has a viable audience but not too much competition. Two examples of successful businesses built using this approach include an app providing advice for heartbreak and an e-book on how to move to New York City. The article also presents three additional ideas, including a business that helps people sue companies who spam them.

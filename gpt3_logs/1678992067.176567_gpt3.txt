@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+development of their product.19 Today the laundry bag is sold by Patagonia, H&M, ARKET, and many other sustainability- minded online shops. Physical pain in the workspace One of my visions is prevention and reduction of the physical pain people might be having in their workspace. One of the reasons people are having pain is bad workspace ergonomics. Long hours spent sitting might lead to various disorders, many of which include pain. There are many causes and obstacles to solving this problem, and Ive tackled two of them:  Lack of accessibility to ergonomic solutions  I responded to this problem by producing the most accessible, high-quality standing desk in Israel.  Lack of workspace ergonomics awareness  By producing custom-branded laptop stands used by companies like Samsung and Sketch as free giveaways at conferences, Ive provided thousands of people with free ergonomics improvement for their workspace and 41GENERATING PRODUCT IDEAS greater awareness of the issue. Figure 4.2 Standing desk I produced in Israel by licensing the design of my ex-colleague at WeWork Reducing waste With a vision of reducing waste, you might list common problems like home appliance waste and electronic waste. One of the causes is these products low durability. In fact, today products dont last as long as they used to.20 In Germany, the percentage of new appliances sold to replace defective ones (as opposed to rst-time purchases) increased from 3.5% to 8.3% between 2004 and 2012.21 Information concerning the durability of products matters 42#4: VISION-BASED IDEAS to consumers: in one study from Alanus University in Germany, consumers weighted price and theoretical product lifetime as nearly equal factors when deciding whether or not to purchase an item (33% and 31%, respectively).22 Collecting such information and making it accessible to the public could be helpful in reducing waste and desirable for consumers. There are several possible sources for gathering durability data:
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses three visions for reducing waste, preventing physical pain in the workspace, and improving workspace ergonomics. The author has tackled accessibility and awareness issues in workspace ergonomics by producing high-quality standing desks and custom-branded laptop stands used as free giveaways. The article also highlights the problem of low durability in products leading to waste, and suggests making durability data accessible to consumers could be helpful in reducing waste.

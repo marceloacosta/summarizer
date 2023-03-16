@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Etsy, you can gauge what products and services are in high demand. After nding these offers, we could explore which ones we could automate a solution for and, in doing so, provide a more cost and time-efficient product to the end customer. The advantage of this technique is that were going to take advantage of the huge amount of traffic these platforms already have and work on products and services that are already demand-validated. Step 1: Find automatable services Fiverr Fiverr is an online marketplace for freelance services. Its a go-to place for uncomplex and affordable services with a well- dened scope, such as designing a logo, editing video clips, recording an ad voice-over, scraping website pages, or writing a press release. Usually, freelance services are packaged in gigs so, instead of hiring a designer, customers buy a pre-packaged service like, logo design with two revisions, or, 10 banners for all Google Ads sizes. As the name suggests, the pricing starts as low as $5 per gig. What we want to do is to nd gigs that can be easily automated. It will probably be more technologically challenging to automate services like a human voice-over. However, to some degree you can automate SEO services and reports, graphic design, social media management, audio transcripts, lead generation, web scraping, etc. 58#8: AUTOMATE MARKETPLACE SERVICES AND PRODUCTS Fiverr can be viewed as a catalog of problems people are trying to solve. By analyzing the services, you can nd new problems and validate the demand. Etsy Another place we want to look is Etsy. It is a marketplace thats mostly for physical goods, although it has a lot of downloadable products that are mostly graphics les; graphics that can be printed on a home printer, on t-shirts, on cards, using a laser cut machine, or a 3D printer, etc. Many of them are templates and could be converted to a simple automated tool allowing customers to design such graphics themselves and customize them. Step 2: Build
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article suggests using online marketplaces such as Etsy and Fiverr to identify in-demand services that can be automated for a more cost and time-efficient product. Fiverr offers affordable, pre-packaged freelance services that can potentially be automated, such as SEO reports and graphic design, while Etsy has many downloadable graphics that can be customized through simple automated tools. The strategy involves analyzing the marketplaces to identify new problems and validate demand before automating services.

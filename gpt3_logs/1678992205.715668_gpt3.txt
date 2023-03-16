@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+aircraft) together. It is similar to renting instead of buying but, in this case, customers own part of the asset. (NetJets)  High-quality content  producing premium, high- quality content and selling access to it. (Masterclass, Glo)  Integrator  combining several components (products) into a new entity, providing new value by leveraging the collective ability.  Lower barriers to entry  making a product that used to be very exclusive accessible to the masses. (Amazon Kindle Direct Publishing)  Lead generation  collecting and selling the contacts of customers who are potentially interested in a service or product to parties providing this product. (comparethemarket.com, confused.com)  Long-tail  focusing on selling a low volume of many niche products rather than a few best sellers. (Amazon, Google Search, Spotify)  Lock-in  building an eco-system which makes it expensive or time-consuming for customers to switch 91GENERATING PRODUCT IDEAS to competitors offers. (Gillette, Apple)  Luxury experience  providing short-term access to something very expensive that is normally out of nancial reach, for a fee (like supercars). (PrivateFly, Sailo)  Marketplace  creating a connection between two parties providing supply and demand for a certain need. (eBay, Airbnb, Etsy)  On-demand  making products and services easily accessible and immediately available, where and when theyre needed. (Uber, Task Rabbit)  Peer-to-peer  creating an infrastructure for individuals to provide goods and services that are normally provided by companies. (Airbnb, eBay, Lyft)  Pay-as-you-go  providing products on a pay-per- use/consumption basis. (Zipcar, Breather)  Research  providing companies and individuals with insights. (Accenture, Bloomberg, Gartner)  Referral  providing customers with tools to recommend the product in order to acquire more customers. Customers are incentivized by receiving a cut from the sale. (WeWork, Uber)  Rent instead of buy  providing access
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses various business models, including asset ownership (NetJets), premium content production (Masterclass, Glo), integration of products (Amazon Kindle Direct Publishing), lead generation (comparethemarket.com, confused.com), long-tail focus (Amazon, Google Search, Spotify), lock-in (Gillette, Apple), luxury experiences (PrivateFly, Sailo), marketplace connections (eBay, Airbnb, Etsy), on-demand availability (Uber, Task Rabbit), peer-to-peer services (Airbnb, eBay, Lyft), pay-as-you-go (Zipcar, Breather), research insights (Accenture, Bloomberg, Gartner), referral marketing tools (WeWork, Uber), and renting instead of buying access.

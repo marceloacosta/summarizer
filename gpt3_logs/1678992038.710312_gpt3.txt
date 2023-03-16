@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+products less harmful and prevent customers from looking for alternatives, similar to how car producers have an incentive to make their cars safer.9 I believe this rise in awareness of the role smartphones play in back and neck pain will lead to a demand for new ergonomic solutions. One of the solutions that could be built to improve smartphone users posture is an app tracking smartphone tilt and providing insights on the users posture. The atter the smartphone is held, the more weight is put on your neck. The tilt of the phone can be measured by a built-in inclinometer which all iPhones have. Tracking such data and providing insights over time, similar to Apples Screen Time or Health app (Figure 2.4), could encourage customers to be more conscious of their posture, thereby improving their health. Ultimately, people will be more satised with using their smartphones long-term. 32#2: PRODUCTIZING YOUR OWN LIFE EXPERIENCES Figure 2.4 A mock-up of how posture tracking could be incorporated into the Health app on iPhone 33GENERATING PRODUCT IDEAS #3: Insider ideas Similar to the previous technique, this relies on and exploits your existing knowledge, but it focuses on your observations inside organizations. Step 1: List the internal processes of organizations with which youre familiar List organizations (companies, non-prot, university, military, etc.) youre familiar with, including their internal processes. Most probably these will be:  organizations you were part of (which you worked for, studied at, served at, etc.)  organizations your close friends are working for or running (and where they wouldnt mind sharing the internal processes).  organizations youve consulted for. Step 2: List the opportunities these organizations didnt pursue For a big company, some opportunities are too small and so not worth pursuing. However, these opportunities might be big enough for you. For each of the organizations from Step 1, list the following:  Internal products
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The rise in awareness of the negative effects of smartphone use on posture may lead to a demand for new ergonomic solutions. One possible solution is an app that tracks smartphone tilt and provides insights on posture. This could encourage customers to be more conscious of their posture, ultimately improving their health and satisfaction with using their smartphones. Another technique for generating product ideas is to list internal processes of organizations with which one is familiar and identify opportunities they did not pursue that may be worth pursuing.

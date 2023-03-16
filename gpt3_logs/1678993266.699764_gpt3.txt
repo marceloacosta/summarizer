@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+antirrbica. ** Tipo: vacuna viva modificada, vacuna inactivada o vacuna mixta.  Desparasitacin  Si el destino final del animal de compaa es Finlandia, Reino Unido, Irlanda o Malta se deber aplicar un tratamiento antiparasitario efectivo contra el Echinococcus multilocularis.  Datos del mdico veterinario firmante  Nombre: RUT: Telfono: Direccin:  Fecha de la inspeccin fsica del animal de compaa:  (No debe ser mayor a 10 das previos a la fecha del embarque)    ------------------------------------------------------- Firma del mdico veterinario  Nota: Los requisitos especficos segn el destino deben adjuntarse a este certificado.  ANEXO 3  Informacin del programa de vacunacin y desparasitacin para HURONES  Vacunacin * Debe estar respaldada por el certificado original de vacunacin antirrbica. ** Tipo: vacuna viva modificada, vacuna inactivada o vacuna mixta.  Desparasitacin   Datos del mdico veterinario firmante  Nombre: RUT: Telfono: Direccin:  Fecha de la inspeccin fsica del animal de compaa:  (No debe ser mayor a 10 das previos a la fecha del embarque)    ------------------------------------------------------- Firma del mdico veterinario  Nota: Los requisitos especficos segn el destino deben adjuntarse a este certificado.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This document outlines the requirements for vaccination and parasite treatment for cats and ferrets traveling to certain countries. A veterinarian must provide their name, contact information, and date of physical inspection of the animal. The type of rabies vaccine used and any specific destination requirements must also be included.

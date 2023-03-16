@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+rooms in all the user interviews the company has ever done. The data was tagged not just by topic but also by whether the experience customers described was positive or negative, and how frequently it would happen to them. It allowed managers to see an overview of what issues members were complaining about the most and, as a result, what they should be working on next. I was very impressed by this product and found it useful myself. I was convinced it would have value outside of the organization. This product wasnt core to WeWorks business, and they didnt have plans to offer it externally, so, when I left in 2017, I was considering building such a product myself and offering it to companies. At the time, I chose to work on another product rst but, that same year, Dovetail13 emerged, a product doing precisely that. Today they have customers like Shopify, Gartner, Sketch, Square, and Samsung. Working space for digital nomads At the time of writing this book, WeWork has more than 800 buildings in 120 cities. The number of co-working spaces in the world is growing exponentially, with a 20% growth rate in the last ve years. Digital nomads could be a loyal and protable niche audience for co-working spaces. However, their need to switch 36#3: INSIDER IDEAS cities or countries every couple of months requires pricing and billing adjustments from co-working companies. Global co-working companies would not put effort into such a niche since they have an almost innite scale with their existing product that does not require much adjustment along the way. Conversely, the small co-working spaces are usually very local and so cant offer international access for digital nomads. A solution that could solve this problem is a company that doesnt have any physical assets itself but which creates partnerships with existing spaces specically to serve the digital nomad market. It could create an international network of co-working spaces, making it easy to onboard these customers
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Former WeWork employee considered building a product that provides managers an overview of customer issues from their interviews but later found that Dovetail13 emerged doing the same. WeWork now has over 800 buildings in 120 cities and attracts digital nomads, but pricing and billing adjustments are required for their frequent changes. A company that partners with existing co-working spaces to serve the digital nomad market could solve the problem.

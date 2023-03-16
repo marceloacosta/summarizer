@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+most common search engine questions Go to answerthepublic.com. This website analyzes the autocomplete data from search engines like Google and provides lists of such searches. It means that the results youll see are lists of frequent searches using your keywords. Originally this product was made to provide ideas to marketers for creating content that would bring traffic via search engines. But it can also be used for nding product ideas. Here are two other tools with similar functionality: keywordtool.io and keysearch.co/tools/brainstorm-niche-ideas. These provide results from other interesting sources such as YouTube, Amazon, eBay, Instagram, Play Store, Twitter, etc. Step 2: Search for the topics relevant to your Audience List Were going to use the same approach as in the scientic research technique. Search for topics relevant to your 72#11: WEB SEARCH ANALYSIS audience, for example, remote work" for remote employees. Audience Search keywords People with back pain Back pain, back muscle strain Remote work, productivity, home Remote employees office Independent book Self-publishing writers Vegans Veganism, plant-based diet Step 3: Find problems that people are looking to solve In the results, youll see problems people are looking to solve or solutions they are searching for. For example, a search for remote work will return:  Remote work agreement  The legislation around remote work isnt straightforward for employees or companies. Its an opportunity to build a consultancy or templates that will help to solve this problem for both audiences.  Remote work taxes  Again, this is a complex area of knowledge that remote workers and those employing them have to get to grips with. Expert guidance could save both sides a lot of money and trouble. People would be happy to pay for a product or consultation helping them to get these issues in order to avoid regulatory problems. 73GENERATING PRODUCT IDEAS  Remote work agency"  There is an opportunity here
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+A website called answerthepublic.com analyzes autocomplete data from search engines to provide lists of frequently searched topics. This can be used to generate product ideas or content for marketing purposes. Other similar tools include keywordtool.io and keysearch.co. To find problems to solve, search for topics relevant to your audience and see what solutions they are searching for. For example, a search for "remote work" could reveal opportunities for consultancy services or product creation related to issues surrounding remote work agreements, taxes, and employment agencies.

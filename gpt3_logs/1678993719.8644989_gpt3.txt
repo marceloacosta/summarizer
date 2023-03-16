@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+when: they are involved in the food preparation; they have six colors on their plate; they have tactile contact with food; and the food looks visually interesting and appealing. This is how my product, an interactive placemat called VeggieMat, was born. Children would use it as a plate, combining food slices to create interesting visuals, and eat them afterwards or during the activity. Parents who used VeggieMat with their children said they would now eat vegetables they never ate before and that it helped them to start a dialogue with them on the importance of the vegetables. 87P A R T 4 : M O D E L The last three techniques require more time than the others, but theyre also very likely to help you generate a list of ideas. Were going to nd opportunities by evaluating how different business types could be applied to your audiences. #15: Business model patterns #16: Analyzing common goals #17: Product models#15: BUSINESS MODEL PATTERNS #15: Business model patterns This technique of exploring the opportunities in business model patterns is particularly suited to company employees looking for new and innovative ideas for their organization: for example, new product lines, revenue streams, strategies, or monetization methods. Were going to use a list of business model patterns and nd intersections with our Audience List to nd product opportunities. Step 1: List business models patterns A business model pattern is a component that can be used or combined to create business models (a business model is the rationale of how an organization creates, delivers, and captures value). You can nd lists of business models and patterns at these resources:  Business Model Navigator (businessmodelnavigator.com)  Simplicable (simplicable.com/new/business-models) For our purposes, the exact denition of a business model or business model pattern doesnt have to be strict, since our goal is only to spark connections and generate new ideas. Below Ive prepared a list of some of
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+VeggieMat is an interactive placemat that encourages children to eat vegetables by making it a fun and visually interesting experience. Parents have reported that it has helped their children eat vegetables they previously wouldn't touch and has started discussions about the importance of vegetables. The technique of using business model patterns can help employees find new ideas for their organization by intersecting with their audience list. It involves listing business model patterns to create and capture value. Resources for business model patterns are provided, and the exact definition doesn't have to be strict as the goal is to generate new ideas.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+in 201937. Similarly, California-based Packed (packedpkg.com) looked at the exploding market for newly legal cannabis and decided to serve it by providing high-quality packaging for cannabis brands. They created packaging for owers, concentrates, cartridges, edibles, and pre-rolls and have worked with the top-selling cannabis brands in the United States. Podcasts are becoming big business and there are companies who recognized this trend and capitalized on it, not by making podcasts themselves but by providing tools for those who do. Jon Buda and Justin Jackson built Transistor.fm, a set of analytics and distribution tools for podcasts, with clients like Basecamp, Kickstarter, and Alexis Ohanian (co- founder of Reddit). Another company in this eld is Supercast, who help podcasters to easily create paid podcasts and monetize their work. In just six months they processed millions of dollars for their clients while being in beta and with only about 10 customers38. 81GENERATING PRODUCT IDEAS #14: Scientic research Research provides us with insight and new knowledge about known problems or helps us to discover new ones. In addition, ideas that are found through this technique will already have a scientic basis which provides you with a reliable foundation and validation that the problem is real. In this technique were going to leverage the existing knowledge and insights created by scientists to nd problems relevant to the Audience List. Step 1: Go to scientic research aggregators Here are some free research aggregators you could use:  sciencedirect.com  researchgate.net  sciencedaily.com  jstor.org  scholar.google.com Step 2: Search for the topics relevant to your audiences Use the Audience List youve dened. Search for the topics related to the audiences youve outlined. Here are some examples: Audience Search keywords People with back pain Back pain, back muscle strain 82#14: SCIENTIFIC RESEARCH Remote work, productivity, home Remote employees office
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Packed provides high-quality packaging for cannabis brands, Transistor.fm provides analytics and distribution tools for podcasters, and Supercast helps podcasters create paid podcasts. Using scientific research aggregators, product ideas can be found based on topics relevant to a specific audience list. Examples include searching for back pain or productivity for remote employees.

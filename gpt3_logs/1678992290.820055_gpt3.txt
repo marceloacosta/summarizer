@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+this product? 120HOW TO PRIORITIZE IDEAS You need to decide how important each of these aspects is to you and how much weight to give them in your assessment. Maybe funding is not a problem for you, so you could mostly take into consideration time factors in the effort axis. If your goal is to create a source of revenue as quickly as possible, you could give this more weight over reach and value for the customer on the impact axis. Ideally, after putting the ideas onto the matrix, you want to pursue those that are in the great or good areas which represent big impact potential and low effort. Matrix use example Here is how Id place some of the ideas I mentioned in this book on an impact/effort matrix: Figure 18.3 Business ideas placed on an impact/effort matrix 121GENERATING PRODUCT IDEAS 1. A browser add-on showing language complexity ratings for books and movies on Amazon, Netix, etc.  Assuming there is no legal problem with analyzing copyrighted materials for language complexity, a product like this would have medium revenue potential and require medium effort. 2. A smartphone app for posture tracking to avoid or relieve back pain.  Considering I cant build this myself, such an app would require initial funding from my side in order to pay for app development. Even though the scope of the app is well-dened, there are no products that currently track inclinometer data in the background, so it makes the R&D effort hard to measure; Id dene it as medium at a guess. The potential nancial gain could be high considering people are already paying for physical posture trackers like UPRIGHT. 3. Prepackaged ingredients for healthy smoothies and shakes.  This product probably requires some innovative R&D and relatively complex operations, making the effort high, although it could make healthy nutrition more accessible to many people which could mean high impact. 4. Air quality evaluation service for offices and homes.  Existing equipment could be used, and
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses how to prioritize ideas by assessing their importance and assigning weight based on factors like funding, time, revenue, and impact. It provides an example of placing business ideas on an impact/effort matrix. The article also presents some product ideas with their potential revenue, effort, and impact.

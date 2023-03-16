@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Play, and Amazon apps and sort by ratings.  Chrome Store  You could navigate the store yourself or nd someone on Fiverr who would nd apps meeting specic criteria for you. 50#6: IMPROVE ABANDONED BUT USEFUL PRODUCTS Ideally, were looking for apps that have:  a low rating; less than 3.5 stars (the product doesnt deliver on the promise).  a lot of downloads or users (which validates the demand).  not been updated for a long time (a higher chance that it was abandoned). Figure 6.1 App Annie: The lowest-rated but most popular productivity apps for iOS 51GENERATING PRODUCT IDEAS Step 2: Build better versions of these products Build a product that better delivers on the promise of these apps and manages to solve the problem more effectively. Rik Schennink was browsing Envato (envato.com), a store of digital add-ons and web components for developers, using this strategy and looking for successful projects he could do better.24 This is how he got the idea for Doca (pqina.nl/doka/), an image editor that developers can integrate into their web products. Rik is an indie developer and his project generates $10,000 a month in revenue. Here are three different examples Ive found using this technique with concrete problems that could be resolved to create a better product:  Free Visio Viewer25 is a Chrome extension that provides a preview of Microsoft Visio les across different platforms without having to install it. The extension has 200,000+ users and an average rating of 3 stars, with customers complaining that it doesnt work and that they dont appreciate the fact their les are uploaded to a public website.  Signily26 is a $0.99 iPhone app with a sign language keyboard. Its #128 in the Utilities category in the App Store and has a 2.9 rating with people complaining about many aspects of its functionality. It clearly looks like the demand is there, but the product isnt meeting it properly. (This specic product is made by a non-prot organization developing
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses a strategy for generating product ideas by finding poorly-rated but popular apps that have not been updated for a long time, and then building better versions of those products. The author provides examples of successful products created using this technique, such as an image editor called Doca and a Chrome extension called Free Visio Viewer. The article emphasizes the importance of solving problems effectively in order to meet customer demand.

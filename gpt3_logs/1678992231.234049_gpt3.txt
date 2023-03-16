@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+consuming. It works in different verticals for children and adults but the possibilities are endless. There are DIY kits for making beer, toothpaste, cosmetics, gin, kombucha, a ukulele, candles, etc. Analytics tools A great way to improve or manage something more effectively, is to track and analyze your progress in order to receive tailored insights. It is true both for individuals (Fitbit for physical activity, Sleep Score for sleep, the Flo app for period tracking, etc.) and for companies (Mixpanel for web performance, OutMatch for HR, Transistor.fm for podcasts). Version control and collaboration tools Software developers, designers, and video editors often work on projects that are being constantly changed and 102#17: PRODUCT MODELS updated for months or years. Sometimes these processes include multiple co-workers, departments, or even external people like clients or partners working on the same project (and les). Many professional niches already have solutions that allow them to achieve smooth version control, collaboration, and handover of such projects. For code its GitHub; for design its Abstract and InVision; for video its Frame.io. Planners Figure 17.1 Search autocomplete on Amazon for planner Planners are a big industry ($342.7m in 201646). The Kickstarter campaign for the SELF Journal planner received $322,000. If you type planner into the Amazon search bar, 103GENERATING PRODUCT IDEAS autocomplete provides a long list of planner types. For the letter F there are planners for farmers, tness, nances, food, funerals, and shing, etc. Many of these searches might not be hugely popular, but this also means they may not have much competition. An interesting idea could be taking board templates for Trello, Notion, and Airtable and converting them to planners. Comparison websites and tools Some decisions require a lot of research and comparison. For example, choosing a provider for car insurance, mortgage, home or office internet, bank accounts,
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses different product models that can be implemented in various industries such as DIY kits, analytics tools, version control and collaboration tools, planners, and comparison websites/tools. Each model has the potential for success and can be tailored to meet specific consumer or business needs.

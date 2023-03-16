@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+allowed me to isolate a UI element and save it in two resolutions required in iPhone and iPad apps we were developing. We could start using this tool immediately, saving hours of work for our designers. Since it was so successful internally, I decided to make it accessible to other designers for free. This tool immediately became incredibly popular  it was downloaded about 100,000 times and featured in all major design blogs. Even though I didnt monetize it, it gave me invaluable experience of shipping a product, and led to some highly valuable connections and consulting gigs. Here are two extra tips for you when looking for opportunities:  Serve the opposite side  Check to see if your experience could be valuable to the opposite side of the business that youre working in. For example, if youve worked in a call center, your experience could be helpful to people who want to negotiate prices with call center 23GENERATING PRODUCT IDEAS representatives. If you were responsible for hiring architects in your rm, your experience could help architects to prepare for job interviews. A real-world example: Daniel Vroman Rusteen used to work for Airbnb, and now hes helping Airbnb hosts to make more money with their spaces5.  Behind-the-door processes  Ask yourself: what are the processes you have access to or understand deeply that few others do? As consumers, were only exposed to the front end of the products and services. For example, eating in a restaurant exposes you to the space, design, hospitality, prepared food, order collection process, Wi- Fi functionality, etc. However, when youre part of creating a product or a service, you have access that most people dont. In this case, it would be how the supply chain, inventory management, salary payments, and other internal processes in the restaurant work. Looking at such processes gives you a competitive advantage against other entrepreneurs who might not have access to this knowledge and experience, and are thus
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The author developed a UI tool for iPhone and iPad apps, which became popular and led to valuable connections and gigs. Two tips for finding opportunities include serving the opposite side of the business and understanding behind-the-door processes that few others do.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+analyzing has already put effort into testing what customers are willing to pay for so, with this technique, youll nd ideas that are already partially validated. By isolating a feature to produce a stand-alone product, and focusing on doing one thing well, you could provide better value to the end customer. Unsupported platforms Companies have multiple, competing priorities, and they often have to put effort into supporting some platforms and deprioritizing others because of lack of time or resources; for example, developing a desktop version of a service but not the native application for smartphones or tablets. One of the reasons for that could be a relatively small number of users on the platform. However, even if its not a big enough platform 62#9: PRODUCT UNBUNDLING for the company to focus on, it could be big enough for you to build the app and provide for the client or customers. Niche audiences Big products may aim to serve a broad audience when, often, more specic and dedicated solutions for each of the audience segments could be more valuable. For example, UpWork is a marketplace for a wide range of freelancers which I use monthly. Even though I can nd the professionals that I need on UpWork, I prefer nding editors on Reedsy and lawyers on UpCouncel because the support they provide is more tailored and specialized. Some products to explore for unbundling opportunities and nding niches: eBay, Amazon, Reddit, Craigslist, and Slack (think about what communities are using the latter). Figure 9.1 Companies that unbundle UpWork's main categories and make each of them a stand-alone business: Toptal for software development; 99designs for design; Reedsy for writing; Advisable for sales and marketing 63GENERATING PRODUCT IDEAS Step 3: Convert the opportunities to products Here are some examples of new products that we could generate from these three techniques:  Mailchimp  This is an example of the feature extraction mentioned by tienne Garbugli above.
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses the concept of product unbundling, which involves isolating a feature of a larger product to create a stand-alone product that provides better value to customers. The technique is useful for exploring niche audiences, unsupported platforms, and validated ideas about what customers are willing to pay for. The article provides examples of companies that have successfully unbundled their products and offers ideas for new products that could be generated using this technique. The article also mentions feature extraction as another useful technique for generating product ideas, with Mailchimp cited as an example.

@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Samuel Brannan didnt mine for gold themselves but instead sold supplies to miners  wheelbarrows, tents, jeans, pickaxes, etc. Mining for gold was the more glamorous path but actually turned out, in aggregate, to be a worse return on capital and labor than selling supplies. - Chris Dixon, general partner at Andreessen Horowitz36 When you see a trend emerging, your rst instinct might be to jump right into it. Often, however, a better strategy is to serve the people or businesses who are part of the trend; get to selling the pickaxes rather than mining the gold. Step 1: List trends Timing in utilizing trends could be a critical factor. For example, gold miners will be happy to pay for the pickaxes that will help them to get ahead of the curve. In addition, if the trend is new, theres a chance theres not much competition for pickaxes, so the market youre going to operate in wont be saturated. If youre not sure what the emerging trends are right now, here are three resources to help you: 79GENERATING PRODUCT IDEAS Figure 13.1 List of trends at explodingtopics.com  TrendHunter.com  Explodingtopics.com  Trends.co (this requires a paid subscription, but it is a high-quality, weekly analysis of opportunities that may be highly benecial). To make them more relevant and interesting for you, you could lter them to leave only trends that:  youd enjoy serving.  youre part of.  are pertinent to your Audience List. 80#12: IDENTIFYING YOUR AUDIENCES PROBLEMS Step 2: Find opportunities to serve the participators in the trend A good example of this approach that Nathan Latka gives in his book, How to Be a Capitalist Without Any Capital, is not to try and catch the trend of food deliveries or to compete with BlueApron or HelloFresh, but to look for opportunities to serve these companies. Oneet (oneet.com) are doing exactly that by providing a last-mile delivery management system for customers like HelloFresh, Meadow, and Imperfect Food. They had revenue of $4.8m
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Samuel Brannan sold supplies to gold miners instead of mining for gold themselves, which turned out to be more profitable. The strategy of serving people or businesses involved in a trend rather than directly participating in it can be effective. To identify trends, resources such as Explodingtopics.com, TrendHunter.com, and Trends.co can be helpful. It's important to filter trends based on relevance and personal interest. Finding opportunities to serve participants in a trend can be more beneficial than competing with them. One example is Oneet, which provides delivery management services for companies like HelloFresh, Meadow, and Imperfect Food and has had revenue of $4.8m.

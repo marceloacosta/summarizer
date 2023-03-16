@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+across industries.  Think of products youve seen or read about recently that caught your eye.  If you cant think of many products, use the resources about existing products list in the Where to nd ideas chapter and explore those that you nd interesting, valuable, or successful. 45GENERATING PRODUCT IDEAS Step 2: Adjust these products to your industry/ audience Now we want to intersect this list of products with the industries or audiences youre deeply familiar with. You can also use your Audience List in this step. Consider whether the problems these products solve are also happening in your industry and relevant to your audience. This is an excellent ongoing mindset to adopt  watching out for products and thinking about how they could be implemented in your industry. Ideally, the audiences youre looking at are ones you can empathize with, understand their needs and have access to. For me, it is designers. Here are some examples of how I leveraged this approach to come up with ideas and build successful products for designers. Job interview preparation resources for different roles Ive been working with software developers and product managers for most of my career. Many of my friends are one or the other. When they would talk about job interviews, theyd often mention that theyd use books to prepare for it. For developers, it was Cracking the Coding Interview, and for PMs it was Cracking the PM Interview. When I started to interview designers for my team, I thought that it would be helpful to read a book like this for designers to improve my technique. I was surprised to nd there was no such thing. So, I decided to write it myself. I ended up narrowing it down to focus only on the most critical part of the design interview  the testing exercises. The book launched in 2018 and immediately became an 46#5: CROSS-INDUSTRY PRODUCT INNOVATION Amazon best seller in the UX category. Bringing an existing concept that worked well in other industries to mine
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses how to generate product ideas by looking at products from different industries and adjusting them to fit your own industry or audience. It gives an example of how this approach was used to create a successful product for designers by adapting a job interview preparation book concept from other industries. The article emphasizes the importance of staying open-minded and always looking for product ideas that can be implemented in your industry.

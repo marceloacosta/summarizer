@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+Dene your goals During the ideation process youre already going to beGENERATING PRODUCT IDEAS naturally biased toward your set of goals. But dening such goals can help you to do the rst lter and make sure that the ideas you proceed with maximize the chances of achieving them. Here are some of the initial aspects you want to evaluate your ideas against. Figure 18.1 Normally, as a bigger business, youll require more resources like people, skills, funding, and time. The prot potential will grow accordingly. The rst thing you should dene is your project type. Decide if youre intending to build a weekend project, a bootstrapped business, or a multimillion-dollar company. In many cases, a side project can become a full-time business later on, so something that starts small can grow in the future. However, you need to decide what your initial plan is. For example, building a plug-in is more likely to be a small project or company, compared to creating a new marketplace which can be scaled quickly and become a big business. Its better to be aware in advance of your current ambitions and choose 116HOW TO PRIORITIZE IDEAS ideas accordingly. Here are some critical aspects of your business that will be affected by the type of project youre building:  Team and skills  Do you want to mostly take advantage of your own skills or would you prefer to work in a team by hiring employees and freelancers, or nding business partners who will have skills you dont have? If your idea is an iPhone app and you happen to be an iOS developer, it could be easy to build it alone, although without a technical background you would have to nd a partner, freelancer, or a full-time employee to do the software development.  Funding  What type of funding would you be open to? The range is broad, starting with no funding and building a bootstrapped business. Alternatively, it could be a small business funded by friends and family, or a large project with nancing from venture capital. 
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Defining your goals during the ideation process can help filter ideas and ensure they maximize the chances of achieving those goals. The project type should be decided, such as a weekend project, bootstrapped business, or multimillion-dollar company. Factors to consider include team and skills, funding, and the potential for growth. A range of funding options exists, from no funding to venture capital, depending on the scope of the project.

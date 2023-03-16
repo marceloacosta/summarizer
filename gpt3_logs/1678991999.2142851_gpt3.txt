@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+hours a day. Last year, Danielle and Arvid had reached $55,000 a month in revenue and sold the company. (You can learn more about their journey at thebootstrappedfounder.com.) Helping indie magazine publishers Kai Brach, the publisher of my favorite magazine, Offscreen, had to learn all aspects of indie publishing from scratch: content production, printing, shipping, distribution, and marketing. He had to learn by doing and accept mistakes that cost him time and money (launching an unsuccessful Kickstarter campaign; printing 6000 magazine covers with a typo). He realized he wasnt the only one going though these painful experiences, and that most indie publishers struggle with the same challenges. He decided to make his experience accessible to other indie publishers which led him to become part of the founding team of Heftwerk (heftwerk.com), a German services company helping indie magazines to do printing, shipping, and distribution. Automatic debugging for software engineers In 2014, I had a small agency providing design and software development services to tech companies. After working on several iOS mobile apps, we noticed the same pattern emerging in the problems we encountered we didnt have a way to track the bugs in our customers apps. Moreover, the time we spent debugging would swallow about 20-30% of development 22#1: SOLVING YOUR OWN BUSINESS PROBLEMS time. We decided to create a product solving this inefficiency: a debugging tool for iOS developers that automatically learns what the production issues are in apps, cutting debug time from hours to seconds. Saving UI designers time In 2013, I led on design as a full-time employee in a startup. I started noticing how time-consuming and frustrating the manual process of exporting UI assets was to our junior designers. To optimize this process, I built Retinize It. It was a simple Photoshop action (similar to Macros in Word) that didnt require any coding skills for me to build it. With one click, this tool
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses how identifying and solving personal business problems led to successful products and companies. The examples include a German company assisting indie publishers, a tool for automatic debugging of software, and an asset exporting tool for UI designers.

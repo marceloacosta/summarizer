@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+chances of success, as youre less likely to give up on the project. Making an Audience List will also benet you in the future, since youll keep this list at the back of your mind and will be more likely to notice the problems they are experiencing. A good technique for nding the right audiences is to start with those you are part of or have close acquaintance with. For me, it would be:  Co-working tenants  UX designers  Cyclists  People who are sustainability conscious  Indie hackers  Etsy sellers  People with back/neck pain  Independent book writers  Remote workers  Airbnb hosts 14DEFINE YOUR AUDIENCE LIST While building your list, add both individuals and businesses. When listing individuals, consider if there are relevant organizations that youd enjoy serving as well. For example, if you like coffee, you might enjoy serving not just people who love coffee but also coffee shops, coffee producers, bean roasters, coffee distributors, etc. The same for bike riders and bike shops, or students and universities. Audience types If youre not sure how to start, here are some audience categories and examples. Individuals You can characterize your audience around a specic:  age  gender  location  occupation  interest  need  habit  hobby  family status, etc. For example:  Deaf people  Yoga practitioners  Preschool kids  People going through divorce  Vegans 15GENERATING PRODUCT IDEAS  Senior citizens  Aquarium owners Small businesses  Art galleries  Nutritionists  Accountants  Nightclubs  Bloggers  Online stores  Bed and breakfast  Personal chefs facilities  Personal trainers  Bars  Photographers  Beauty salons  Private  Boutique hotels investigators  Car dealers  Podcasters  Car repair shops  Physicians  Copywriters  Property managers  Coffee shops  Restaurants  Caterers  Real estate brokers  Day care facilities  Sports coaches  Event planners  Startups  Event space rentals  Therapists  Farmers  Translators 
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article discusses the importance of creating an audience list when developing a product or service, as it increases the chances of success and helps with identifying potential problems. The author suggests starting with individuals or businesses that one has close ties with and provides examples of audience categories such as age, location, occupation, interest, and family status. The article also provides a list of potential audiences, including co-working tenants, sustainability-conscious individuals, and remote workers, among others. Finally, the article emphasizes the importance of considering potential organizations that may be relevant to one's target audience.

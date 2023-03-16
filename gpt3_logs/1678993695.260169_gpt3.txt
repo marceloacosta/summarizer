@@ -1,0 +1,15 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+
+to build a head-hunting agency specializing in nding remote employees. You could nd a niche within this market and specialize in hunting only designers or experienced executives.  Remote work podcast  Apparently, since remote work is still new, people are hungry to learn more about it. Creating a podcast could be a stand-alone project if it were monetized, or a way to build an audience and community to whom you could market your future products. 74#12: IDENTIFYING YOUR AUDIENCES PROBLEMS #12: Identifying your audiences problems This is a very straightforward technique that might sound trivial. However, entrepreneurs might not always take the time to sit down, do the research, and implement it. Step 1: Put your Audience List in a table We want to create a table with three columns. In the rst column we want to list your audiences: Audience Problems Product Ideas Co-working tenants Self-published authors Cyclists Step 2: Explore the problems they encounter In the second column, we want to list the problems they might encounter. Were going to use two sources to dene their problems:  Your assumptions (which youll obviously have to validate)  use your experience or knowledge to list problems this audience is dealing with.  Google  start with googling why [activity] is bad. 75GENERATING PRODUCT IDEAS With cycling you could search for: why cycling is bad and see what problems are agged up on Google when it autocompletes the rest of the sentence. With this technique, you receive an immediate glimpse into the problems people are having and researching; it quickly shows you what problems your audience is aware of. Figure 12.1 Google autocompletes your sentence, allowing you to discover what problems each audience segment is researching For example, cycling feels like a healthy activity, overall. However, googling cycling is bad educated me on an issue I wasnt aware of before  that cycling might be harmful35 to your health due to inhalation of carbon
+
+
+CONCISE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The article suggests two business ideas: a remote employee head-hunting agency and a remote work podcast. It also provides a technique for identifying the problems of different audiences, which can lead to generating product ideas. The technique involves listing the audience in the first column, exploring their problems in the second column using assumptions and Google searches, and coming up with product ideas in the third column. A cycling example is given, where searching for "why cycling is bad" on Google revealed potential health risks.
