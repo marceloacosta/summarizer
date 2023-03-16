@@ -7,7 +7,7 @@ Install the required packages by running pip install -r requirements.txt.
 Usage
 Set the API_KEY environment variable with your OpenAI API key.
 
-Add the summarization prompt to a file named prompt.txt. Make sure to include <<SUMMARY>> in the prompt where you want the summarized text to be inserted.
+Add the summarization prompt to a file named prompt.txt. Make sure to include SUMMARY in the prompt where you want the summarized text to be inserted.
 
 
 ## Setup
@@ -30,7 +30,7 @@ If you have a text file named sample.txt and you want to generate a summary, run
 python app.py sample.txt
 </pre>
 
-The summary will be saved in a file named final_output[timestamp].txt.
+The summary will be saved in a file named final_output.txt.
 
 ## Code Structure
 read_txt(file_path): Reads and returns the content of a text file.
