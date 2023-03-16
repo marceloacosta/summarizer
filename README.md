@@ -9,7 +9,12 @@ Set the API_KEY environment variable with your OpenAI API key.
 
 Add the summarization prompt to a file named prompt.txt. Make sure to include <<SUMMARY>> in the prompt where you want the summarized text to be inserted.
 
-Run the program with the following command, replacing input_file.ext with the path to the file you want to summarize:
+
+## Setup
+
+Before running the script, make sure you have a folder called `working` in the same directory as the script. Place the input file (txt, doc, docx, or pdf) inside the `working` folder. The output file with the summary will also be saved in this folder.
+
+## Usage
 
 <pre>
 
@@ -25,7 +30,7 @@ If you have a text file named sample.txt and you want to generate a summary, run
 python app.py sample.txt
 </pre>
 
-The summary will be saved in a file named summary of {text}.txt.
+The summary will be saved in a file named final_output[timestamp].txt.
 
 ## Code Structure
 read_txt(file_path): Reads and returns the content of a text file.
