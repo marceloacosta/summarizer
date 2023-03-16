@@ -33,7 +33,9 @@ def read_pdf(file_path):
     return text
 
 def save_file(content, filename):
-    with open(filename, "w") as file:
+    output_folder = "working"
+    output_path = os.path.join(output_folder, filename)
+    with open(output_path, "w") as file:
         file.write(content)
 
 def main():
@@ -41,7 +43,8 @@ def main():
     parser.add_argument('file', help='Path to the file to read text from')
     args = parser.parse_args()
 
-    file_path = args.file
+    input_folder = "working"
+    file_path = os.path.join(input_folder, args.file)
     file_ext = os.path.splitext(file_path)[1].lower()
 
     if file_ext == '.txt':
