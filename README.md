@@ -12,7 +12,7 @@ Add the summarization prompt to a file named prompt.txt. Make sure to include <<
 Run the program with the following command, replacing input_file.ext with the path to the file you want to summarize:
 
 <pre>
-```bash
+
 python app.py input_file.ext
 </pre>
 
@@ -21,7 +21,7 @@ The program will generate a summary and save it in a file named summary of {text
 ## Example
 If you have a text file named sample.txt and you want to generate a summary, run:
 <pre>
-```bash
+
 python app.py sample.txt
 </pre>
 
