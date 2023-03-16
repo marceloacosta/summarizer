@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# App logs
+/gpt3_logs
+
+# working stuff
+/working
