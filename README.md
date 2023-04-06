@@ -1,5 +1,5 @@
 # Text Summarizer
-This text summarizer program reads text from different file formats (txt, doc, docx, pdf) and generates a summary using OpenAI's GPT-3.5-turbo model.
+This text summarizer program reads text from different file formats (txt, doc, docx, pdf and epub) and generates a summary using OpenAI's GPT-3.5-turbo model.
 
 ## Prerequisites
 Python 3.8 or higher

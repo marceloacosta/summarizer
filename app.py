@@ -8,6 +8,9 @@ from time import time, sleep
 import json
 import re
 import requests
+import ebooklib
+from ebooklib import epub
+from bs4 import BeautifulSoup
 
 
 load_dotenv()
@@ -32,6 +35,17 @@ def read_pdf(file_path):
                 text += page_text
     return text
 
+def read_epub(file_path):
+    book = epub.read_epub(file_path)
+    extracted_text = ''
+
+    for item in book.get_items():
+        if item.get_type() == ebooklib.ITEM_DOCUMENT:
+            soup = BeautifulSoup(item.get_content(), 'html.parser')
+            extracted_text += soup.get_text()
+
+    return extracted_text
+
 def save_file(content, filename):
     output_folder = "working"
     output_path = os.path.join(output_folder, filename)
@@ -53,6 +67,8 @@ def main():
         text = read_doc(file_path)
     elif file_ext == '.pdf':
         text = read_pdf(file_path)
+    elif file_ext == '.epub':
+        text = read_epub(file_path)
     else:
         print(f"Error: The file format {file_ext} is not supported.")
         return
